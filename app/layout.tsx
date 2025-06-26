@@ -6,9 +6,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Ismail Saleem - Flutter Developer",
-  description: "Portfolio of Ismail Saleem, Flutter Developer from Islamabad",
-    generator: 'v0.dev'
+  title: "Abdullah Waseem - Flutter Developer",
+  description: "Portfolio of Abdullah Waseem, Flutter Developer from Islamabad",
+  generator: 'v0.dev'
 }
 
 export default function RootLayout({
